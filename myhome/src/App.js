@@ -6,7 +6,7 @@ import MemberDetailsComponent from './components/MemberDetailsComponent';
 
 function App() {
   return (
-    <BrowserRouter>
+    <>
       <div className="App">
         <Route path="/" exact component={HomeComponent} />
         <Route path="/MemberDetailsComponent" exact component={MemberDetailsComponent} />
