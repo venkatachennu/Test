@@ -1,3 +1,5 @@
 just checking changes with source tree
 
 testing pull to sourcetree
+testing the stash
+chekcing
